@@ -164,5 +164,4 @@ public class HashedSetQuestion
 		}
 	}
 
-	//DOes this work on GitHub??
 }
